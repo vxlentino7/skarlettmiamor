@@ -20,7 +20,9 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-  document.getElementById('messageContainer').innerHTML = 'Ves como te encanto xD';
+  document.getElementById('messageContainer').innerHTML = 'Ves como te encanto y desde los 15
+      
+      ';
   
   setTimeout(function() {
     document.getElementById('messageContainer').innerHTML += '<br><a href="https://orlngtgut.github.io/flores/index.html" target="_blank">mira flores bonitas como tu</a><br><br><a href="https://orlngtgut.github.io/babosa/index.html" target="_blank">Animacion de rosa con mensaje de te amo babosa</a>';
@@ -71,7 +73,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         case 1:
             // Segunda vez haciendo clic en "No"
 
-            document.getElementById('noBtn').innerHTML = '¡¿A con que así las cosas, negas a tu ingeniero hermoso?!';
+            document.getElementById('noBtn').innerHTML = '¡¿A con que así las cosas, niegas a tu bebé hermoso?!';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
             document.getElementById('sadGifContainer').style.display = 'none';
             document.getElementById('sadGifContainer2').style.display = 'block';
@@ -111,7 +113,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 4:
            
-            document.getElementById('noBtn').innerHTML = 'Que feo tu modo';
+            document.getElementById('noBtn').innerHTML = 'Que feo tu modo Skarlett';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -155,7 +157,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 8:
            
-            document.getElementById('noBtn').innerHTML = 'a tu mamá le voy a decir';
+            document.getElementById('noBtn').innerHTML = 'a tu mamá le voy a decir Skarlett';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             document.getElementById('siBtn').style.fontSize = '140px';
@@ -166,7 +168,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
 
         case 9:
            
-            document.getElementById('noBtn').innerHTML = '._. Ojala Carmen';
+            document.getElementById('noBtn').innerHTML = '._. Ojala Skarlett';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -200,7 +202,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 12:
            
-            document.getElementById('noBtn').innerHTML = 'Ni suplicandote';
+            document.getElementById('noBtn').innerHTML = 'Ni suplicandote chamuquito';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -235,7 +237,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 15:
            
-            document.getElementById('noBtn').innerHTML = 'APRETA EL BOTON DE SI O TE MEO LA PATA :)';
+            document.getElementById('noBtn').innerHTML = 'APRETA EL BOTON DE SI O NO TE DIGO MAS NUNCA AMOR :)';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -247,7 +249,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
      
         case 16:
-                document.getElementById('noBtn').innerHTML = 'Jein, feo tu modo';
+                document.getElementById('noBtn').innerHTML = 'Skarlett, feo tu modo';
                 document.getElementById('noBtn').style.backgroundColor = '#F1330A';
               
                 document.getElementById('sadGifContainer').style.display = 'none';
